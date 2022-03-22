@@ -1,7 +1,5 @@
 # Page Design Test
-
-A new Flutter project.
-
+Mobile Applicant Developer (Flutter)
 ## Olawale PraiseGod Ajepe
 
 ### App Design Preview
